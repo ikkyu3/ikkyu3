@@ -14,3 +14,8 @@ I research security vulnerabilities in open-source software and coordinate respo
 - [CVE-2026-56723 — Zammad](https://github.com/zammad/zammad/security/advisories/GHSA-374g-4f73-g7m7) — Reporter
 
 Published CVEs: 2
+
+## Open Source Contributions
+
+- **ada-url/ada** — [PR #1242](https://github.com/ada-url/ada/pull/1242)  
+  Added regression tests covering `::` grammar boundaries in the IPv6 host parser, including compressed-address edge cases, group-width constraints, multiple `::` rejection, and invalid leading/trailing colon handling. **Merged upstream.**
